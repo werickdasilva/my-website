@@ -11,10 +11,10 @@ const config = {
   favicon: 'img/favicon.ico',
 
   // Set the production url of your site here
-  url: 'https://werickdasilva.github.io/my-website/',
+  url: 'https://werickdasilva.github.io',
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
-  baseUrl: '/',
+  baseUrl: '/my-website/',
   projectName: 'werickdasilva.github.io',
   organizationName: 'werickdasilva',
   trailingSlash: false,
