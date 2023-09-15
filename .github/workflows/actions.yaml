@@ -41,6 +41,7 @@ jobs:
         with:
           target_branch: gh-pages
           run: |
-            USE_SSH=true npm run deploy    
+            USE_SSH=true npm run deploy
+          build_dir: ./build
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
