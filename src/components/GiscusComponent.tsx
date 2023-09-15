@@ -8,10 +8,10 @@ export default function GiscusComponent() {
   return (
     <Giscus
       id="comments"
-      repo="giscus/giscus-component"
-      repoId="MDEwOlJlcG9zaXRvcnkzOTEzMTMwMjA="
-      category="Announcements"
-      categoryId="DIC_kwDOF1L2fM4B-hVS"
+      repo="werickdasilva/my-website"
+      repoId="R_kgDOKT6_zQ"
+      category="General"
+      categoryId="DIC_kwDOKT6_zc4CZVno"
       mapping="specific"
       term="Welcome to @giscus/react component!"
       reactionsEnabled="1"
